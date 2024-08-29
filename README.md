@@ -1,3 +1,49 @@
+# List of all essential coding patterns
+
+
+
+### **1. Sliding Window**
+### **2. Two Pointers**
+### **3. Fast & Slow Pointers (Tortoise and Hare)**
+### **4. Merge Intervals**
+### **5. Cyclic Sort**
+### **6. In-place Reversal of a Linked List**
+### **7. Tree Traversals**
+### **8. BFS/DFS for Graphs**
+### **9. Backtracking**
+### **10. Dynamic Programming (DP)**
+### **11. Greedy Algorithm**
+### **12. Topological Sort**
+### **13. Binary Search**
+### **14. Bit Manipulation**
+### **15. Union-Find**
+### **16. Knapsack Pattern**
+### **17. Kadane’s Algorithm**
+### **18. Monotonic Stacks/Queues**
+### **19. Trie (Prefix Tree)**
+### **20. Segment Tree**
+### **21. Heap / Priority Queue**
+### **22. Matrix Traversal**
+### **23. Fast Exponentiation**
+### **24. Fenwick Tree / Binary Indexed Tree (BIT)**
+### **25. Disjoint Set**
+### **26. Sieve of Eratosthenes**
+### **27. Top-Down vs. Bottom-Up DP**
+### **28. Palindromic Substrings**
+### **29. Prefix Sum & Difference Array**
+### **30. Minimum Spanning Tree (MST)**
+### **31. Floyd-Warshall Algorithm**
+### **32. Dijkstra’s Algorithm**
+### **33. Bellman-Ford Algorithm**
+### **34. Longest Common Subsequence (LCS)**
+### **35. Divide and Conquer**
+### **36. Reservoir Sampling**
+### **37. Binary Indexed Tree (Fenwick Tree)**
+### **38. Discrete Logarithm**
+### **39. Mo’s Algorithm**
+### **40. Probability & Combinatorics**
+
+---
 # **Coding Patterns Flowchart for Problem Solving**
 
 This guide helps in identifying the appropriate coding pattern for solving various problems. Follow the steps below to match the problem with the correct approach.
