@@ -2,7 +2,8 @@
 
 
 
-### **1. Sliding Window**
+### 1. [**Sliding Window**](https://github.com/praveenkumar-4E2/DSA-Patterns/tree/master/DSA/2.Algorithms/Sliding%20Window)
+
 ### **2. Two Pointers**
 ### **3. Fast & Slow Pointers (Tortoise and Hare)**
 ### **4. Merge Intervals**
