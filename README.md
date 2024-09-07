@@ -2,7 +2,9 @@
 
 
 
-### 1. [**Sliding Window**](https://github.com/praveenkumar-4E2/DSA-Patterns/tree/master/DSA/2.Algorithms/Sliding%20Window)
+### [**Sliding Window**](https://github.com/praveenkumar-4E2/DSA-Patterns/tree/master/DSA/2.Algorithms/Sliding%20Window)
+
+### [**Binary Search**](https://github.com/praveenkumar-4E2/DSA-Patterns/tree/v1/DSA/2.Algorithms/Binary%20Search)
 
 ### **2. Two Pointers**
 ### **3. Fast & Slow Pointers (Tortoise and Hare)**
@@ -15,7 +17,7 @@
 ### **10. Dynamic Programming (DP)**
 ### **11. Greedy Algorithm**
 ### **12. Topological Sort**
-### **13. Binary Search**
+
 ### **14. Bit Manipulation**
 ### **15. Union-Find**
 ### **16. Knapsack Pattern**
